@@ -1,0 +1,22 @@
+id,criteria,key_words,pregnant,lactating
+1,"for female participants, currently breastfeeding (lactating) or less than 12 weeks from cessation of lactation",testing,,0
+1,"for female participants, currently breastfeeding (lactating) or less than 12 weeks from cessation of lactation",testing,,0
+1,"for female participants, currently breastfeeding (lactating) or less than 12 weeks from cessation of lactation",testing,,0
+2,patients will be excluded if they are pregnant.,testing,0,
+3,pregnant women or women currently breastfeeding;,testing,0,0
+4,females who are pregnant or nursing,testing,0,0
+5,"in the case of women of childbearing age, urine pregnancy test must be negative",testing,0,
+6,are pregnant or lactating or planning to become pregnant within the next three months;,testing,0,0
+7,pregnant or breast-feeding,testing,0,0
+8,patients who are pregnant or may be pregnant,testing,0,
+9,not pregnant or nursing,testing,0,0
+10,females who are pregnant.,testing,0,
+11,"for females of child-bearing age, current pregnancy, plan to become pregnant while on study drug, or refusal to avoid pregnancy while on study drug.",testing,0,
+12,"for females of child-bearing age, current breast feeding.",testing,,0
+13,are not pregnant (negative urine test) or breastfeeding,testing,0,0
+14,women pregnant with one fetus between 16 and 22 weeks of gestation,physical activity,1,
+14,women pregnant with one fetus between 16 and 22 weeks of gestation,sedentary time,1,
+14,women pregnant with one fetus between 16 and 22 weeks of gestation,pregnancy,1,
+14,women pregnant with one fetus between 16 and 22 weeks of gestation,pregnant women,1,
+14,women pregnant with one fetus between 16 and 22 weeks of gestation,weight gain,1,
+15,this is a study that does not mention anything related to preg_nancy,testing,,
